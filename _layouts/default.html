@@ -6,6 +6,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d584870445e040abb4b4594b9febd685"}'></script>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
