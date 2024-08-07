@@ -10,7 +10,7 @@ I have been reading cloth books to my kiddo, who loves playing with the flaps. W
 
 The first "Bookcabulary" post is on *Little Crab's Adventure*. I have included the translated vocabulary from the book in the table below. Enjoy joining little crab on their adventure, where you’ll meet a big-mouthed whale and dance with an octopus. Happy reading!
 
-## Vocabulary
+## Vocabularies
 
 | English | Pinyin  | Traditional  |  Simplified | Synonyms (traditional)
 |-----|---|---|---|---|
