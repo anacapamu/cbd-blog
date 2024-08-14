@@ -7,6 +7,7 @@ categories:
 tags:
   - transportation
 toc: true
+toc_sticky: true
 ---
 
 ![book cover of Things That Go](https://i.imgur.com/BtAIeQg.jpg)

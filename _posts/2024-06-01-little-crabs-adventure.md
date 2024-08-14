@@ -7,6 +7,7 @@ categories:
 tags:
   - sea life
 toc: true
+toc_sticky: true
 ---
 
 ![book cover of Little Crab's Adventure](https://i.imgur.com/yPl6cb2.jpg)
