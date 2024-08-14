@@ -27,4 +27,5 @@ gem "minimal-mistakes-jekyll"
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 group :jekyll_plugins do
     gem "webrick"
+    gem 'jekyll-archives'
 end
