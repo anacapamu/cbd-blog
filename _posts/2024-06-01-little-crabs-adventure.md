@@ -1,7 +1,12 @@
 ---
 title:  "Little Crab's Adventure"
 last_modified_at: 2024-06-01 00:00:00 -0800
-categories: bookcabulary
+categories:
+  - bookcabulary
+  - mandarin chinese
+tags:
+  - sea life
+toc: true
 ---
 
 ![book cover of Little Crab's Adventure](https://i.imgur.com/yPl6cb2.jpg)
