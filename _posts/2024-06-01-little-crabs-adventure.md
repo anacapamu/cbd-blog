@@ -24,6 +24,6 @@ The first "Bookcabulary" post is on *Little Crab's Adventure*. I have included t
 | adventure | mào xiǎn | 冒險 |  冒险 | |
 | meets | yù jiàn  | 遇見 | 遇见 |   | |
 | whale | jīng yú | 鯨魚 | 鲸鱼 | 鯨
-| octopus | zhāng yú | 章魚 | 章鱼 | 八帶魚,  蛸 |
+| octopus | zhāng yú | 章魚 | 章鱼 | 八帶魚 (bā dài yú),  蛸 (shāo) |
 | hide-and-seek | zhuō mí cáng  | 捉迷藏  |  捉迷藏 |   |
 | waves goodbye | huī shǒu gào bié  | 揮手告別 | 挥手告别 |   |
