@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nina"
 description              : "Empowering parents with bilingual resources to connect their children with Chinese culture and language."
-url                      : "https://anacapamu.github.io"
+url                      : "https://chinesebreakdowns.com"
 baseurl                  : "/"
 repository               : "anacapamu/cbd-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nina"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "California"
   email            :
   links:
     - label: "Email"
