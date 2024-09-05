@@ -2,7 +2,7 @@
 title:  "Things That Go"
 last_modified_at: 2024-07-18 00:00:00 -0800
 categories:
-  - bookcabulary
+  - vocab list
   - mandarin chinese
 tags:
   - transportation
