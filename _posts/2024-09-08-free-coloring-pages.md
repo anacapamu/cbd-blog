@@ -1,5 +1,5 @@
 ---
-title:  "Free Bilingual Coloring Pages"
+title:  "Free Bilingual Chinese-English Coloring Pages"
 last_modified_at: 2024-09-08 00:00:00 -0800
 categories:
   - coloring page
@@ -16,6 +16,7 @@ What better way to learn both Chinese and English than through the fun of colori
 
 ![screenshot of farm animals coloring page](https://i.imgur.com/Ixx9VGd.png)
 
-<p style="text-align: center;">
-[simplified with pinyin](/assets/downloads/CP001SP%20Farm%20Animals%20Coloring%20Page.pdf) ❘ [traditional with pinyin](/assets/downloads/CP001TP%20Farm%20Animals%20Coloring%20Page.pdf)
-</p>
+<div style="text-align: center;">
+  <a href="/assets/downloads/CP001SP%20Farm%20Animals%20Coloring%20Page.pdf">simplified with pinyin</a> ❘
+  <a href="/assets/downloads/CP001TP%20Farm%20Animals%20Coloring%20Page.pdf">traditional with pinyin</a>
+</div>
