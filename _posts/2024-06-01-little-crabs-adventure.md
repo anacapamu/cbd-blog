@@ -4,6 +4,8 @@ last_modified_at: 2024-06-01 00:00:00 -0800
 categories:
   - vocab list
   - mandarin chinese
+  - simplified chinese
+  - traditional chinese 
 tags:
   - sea life
 toc: true
@@ -18,12 +20,12 @@ The first vocab list post will be on *Little Crab's Adventure*. A quick Google s
 
 ## Vocabularies
 
-| English | Pinyin  | Traditional  |  Simplified | Synonyms (traditional)
-|-----|---|---|---|---|
-| crab | páng xiè | 螃蟹 | 螃蟹 | |
-| adventure | mào xiǎn | 冒險 |  冒险 | |
-| meets | yù jiàn  | 遇見 | 遇见 |   | |
-| whale | jīng yú | 鯨魚 | 鲸鱼 | 鯨
-| octopus | zhāng yú | 章魚 | 章鱼 | 八帶魚 (bā dài yú),  蛸 (shāo) |
-| hide-and-seek | zhuō mí cáng  | 捉迷藏  |  捉迷藏 |   |
-| waves goodbye | huī shǒu gào bié  | 揮手告別 | 挥手告别 |   |
+| English | Traditional  |  Simplified |
+|-----|---|---|
+| crab | 螃蟹 (páng xiè) | 螃蟹 (páng xiè) |
+| adventure |  冒險 (mào xiǎn) |  冒险 (mào xiǎn) |
+| meets | 遇見 (yù jiàn) | 遇见 (yù jiàn) |
+| whale | 鯨魚 (jīng yú), 鯨 | 鲸鱼 (jīng yú) | 
+| octopus |  章魚 (zhāng yú), 八帶魚 (bā dài yú), 蛸 (shāo) | 章鱼 (zhāng yú), 八带鱼 (bā dài yú), 蛸  (shāo) |
+| hide-and-seek | 捉迷藏 (zhuō mí cáng) |  捉迷藏 (zhuō mí cáng ) |
+| waves goodbye | 揮手告別 (huī shǒu gào bié) | 挥手告别 (huī shǒu gào bié) |

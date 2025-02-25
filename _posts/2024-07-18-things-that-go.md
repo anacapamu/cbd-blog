@@ -4,6 +4,8 @@ last_modified_at: 2024-07-18 00:00:00 -0800
 categories:
   - vocab list
   - mandarin chinese
+  - simplified chinese
+  - traditional chinese 
 tags:
   - transportation
 toc: true
@@ -16,17 +18,17 @@ My daughter has been obsessed with transportation books like *Things That Go* ev
 
 ## Vocabularies
 
-| English | Pinyin  | Traditional  |  Simplified | Synonyms (traditional)
-|-----|---|---|---|---|
-| tugboat (tow boat) | tuō chuán | 拖船 | 拖船 | |
-| train | huǒ chē | 火車 | 火车 | |
-| hot-air balloon | rè qì qiú | 熱氣球 | 热气球 | |
-| bus | bā shì | 巴士 | 巴士 | 公車 (gōng chē), 公共汽車 (gōng gòng qì chē) |
-| sailboat | fān chuán | 帆船 | 帆船 | |
-| digger | wā tǔ jī | 挖土機 | 挖土机 | 挖掘機 (wā jué jī) |
-| car | chē | 車 | 车 | 汽車 (qì chē), 車輛 (chē liàng), 車仔 (chē zǐ), 車子 (chēzi)|
-| dump truck | lè sè chē  | 垃圾車 | 垃圾车 | |
-| fire truck | xiāo fáng chē | 消防車 | 消防车 | 救火車 (jiù huǒ chē) |
-| plane | fēi jī | 飛機 | 飞机 | |
-| tractor | tuō lā jī | 拖拉機 | 拖拉机 | 聯結機 (lián jié jī) |
-| rocket | huǒ jiàn | 火箭 | 火箭 | |
+| English | Traditional | Simplified | 
+|-----|---|---|
+| tugboat (tow boat) |  拖船 (tuō chuán) | 拖船 (tuō chuán) | |
+| train | 火車 (huǒ chē) | 火车 (huǒ chē) |
+| hot-air balloon | 熱氣球 (rè qì qiú) | 热气球 (rè qì qiú) |
+| bus | 巴士 (bā shì), 公車 (gōng chē) | 巴士 (bā shì), 公共汽车 (gōng gòng qì chē) |
+| sailboat | 帆船 (fān chuán) | 帆船 (fān chuán) |
+| digger | 挖土機 (wā tǔ jī) | 挖掘机 (wā jué jī) | 
+| car | 車 (chē), 汽車 (qì chē), 車輛 (chē liàng), 車仔 (chē zǐ), 車子 (chē zi) | 车 (chē), 汽车 (qì chē), 车辆 (chē liàng) |
+| dump truck | 垃圾車 (lè sè chē) | 垃圾车 (lè sè chē) |
+| fire truck | 消防車 (xiāo fáng chē) | 消防车 (xiāo fáng chē) |
+| plane | 飛機 (fēi jī) | 飞机 (fēi jī) |
+| tractor | 聯結機 (lián jié jī) | 拖拉机 (tuō lā jī) |
+| rocket | 火箭 (huǒ jiàn) | 火箭 (huǒ jiàn) |
