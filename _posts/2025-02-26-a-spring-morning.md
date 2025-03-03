@@ -27,12 +27,6 @@ Spring hasn’t arrived just yet, but with warmer weather and blooming flowers, 
 | After a night of wind and rain, | yè lái fēng yǔ shēng | 夜来风雨声， | 夜來風雨聲， |
 | Who knows how many flowers have fallen. | huā luò zhī duō shǎo | 花落知多少。| 花落知多少。 |
 
-## Videos 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CurogHvggwY?si=EKBadRx8U3JfpfhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nXCxXjyGs2I?si=S45wAXSSp3Dfok8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## References 
 1. https://eastasiastudent.net/china/classical/meng-haoran-spring-dawn/
 

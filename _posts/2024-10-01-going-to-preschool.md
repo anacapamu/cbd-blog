@@ -24,10 +24,3 @@ A few months ago, my daughter started daycare, and it took her about a month to 
 | And I go to preschool. | wǒ shàng yòu ér yuán | 我上幼儿园 |
 | I don’t cry or fuss | wǒ bù kū yě bù nào | 我不哭也不闹 |
 | And greet the teacher with "Good morning!" | jiào shēng lǎo shī zǎo! | 叫声老师早！|
-
-## Videos
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GOCYUrchbAY?si=Mbb8cmBlLJZdhKTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qPVU-F64_KI?si=y1VvK92Ivil9vv-_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
