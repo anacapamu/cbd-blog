@@ -2,11 +2,10 @@
 title:  "Going to Preschool"
 last_modified_at: 2024-10-01 00:00:00 -0800
 categories:
-  - songs
+  - children songs
   - mandarin chinese
   - simplified chinese
 tags:
-  - nursery rhyme
   - school
 toc: true
 toc_sticky: true
